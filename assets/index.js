@@ -1,1 +1,0 @@
-// Simulatie van een gebundeld JS-bestand
