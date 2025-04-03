@@ -15,4 +15,5 @@
     "vite": "^5.0.0",
     "@vitejs/plugin-react": "^4.0.0"
   }
+  "homepage": "https://jpduhen.github.io/add-elements-to-360-image"
 }
